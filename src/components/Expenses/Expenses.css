@@ -1,0 +1,14 @@
+.expenses {
+  background-color: #1c1917;
+  padding: 1.2rem 2.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.no-content {
+  color: #fff;
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+}
